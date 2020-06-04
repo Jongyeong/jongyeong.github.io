@@ -1,0 +1,13 @@
+---
+title: Random math \#1
+sidebar:
+    nav: rm
+tag: RM Set
+---
+# H1
+$$ A = B $$
+## H12
+$$ a+1 =2 $$
+# H2
+
+$$ \sum_i^k x_i = N $$ 
