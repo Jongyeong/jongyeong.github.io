@@ -52,8 +52,8 @@ header:
 rm:
   - title: Random Math
     children:
-      - title: \#1 Set
-        url: /docs/rm/2020-06-04-rm1
+      - title: #1 Set
+        url: /rm/rm1
 
 
 sidebar:
