@@ -215,8 +215,9 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
-  - scopre:
-      path: "_docs/rm"
+  - scope:
+      path: "/rm"
+      type: posts
     values:
       layout: article
       sidebar:
