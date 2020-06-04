@@ -219,7 +219,7 @@ defaults:
       path: "_docs/rm"
     values:
       layout: article
-      sidebar: true
+      sidebar:
         nav: rm
       sharing: true
       license: true
