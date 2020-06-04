@@ -182,7 +182,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : /:path/:title
+permalink   : none
 
 exclude:
   - CHANGELOG.md
@@ -201,6 +201,13 @@ exclude:
   - /screenshots
   - /vendor
 
+collections:
+  rm:
+    output: true
+    permalink: /:collection/:title
+
+
+
 defaults:
   - scope:
       path: ""
@@ -215,9 +222,10 @@ defaults:
       show_subscribe: true
       pageview: true
   - scope:
-      path: "rm/"
-      type: posts
+      path: rm"
+      type: docs
     values:
+      category: rm
       layout: article
       sidebar:
         nav: rm
