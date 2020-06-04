@@ -49,5 +49,12 @@ header:
       # @end locale config
     url: /about.html
 
+rm:
+  - title: Random Math
+    children:
+      - title: \#1 Set
+        url: /_docs/rm/1
+
+
 sidebar:
-  nav: docs-en
+  nav: rm
