@@ -182,7 +182,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : /:categories/:title
+permalink   : /:title
 
 exclude:
   - CHANGELOG.md
@@ -219,7 +219,6 @@ defaults:
       type: posts
     values:
       layout: article
-      category: "rm"
       sidebar:
         nav: rm
       sharing: true
