@@ -201,13 +201,6 @@ exclude:
   - /screenshots
   - /vendor
 
-collections:
-  rm:
-    output: true
-    permalink: /:collection/:title
-
-
-
 defaults:
   - scope:
       path: ""
@@ -222,10 +215,9 @@ defaults:
       show_subscribe: true
       pageview: true
   - scope:
-      path: rm"
-      type: docs
+      path: "rm"
+      type: posts
     values:
-      category: rm
       layout: article
       sidebar:
         nav: rm
