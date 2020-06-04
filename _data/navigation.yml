@@ -1,6 +1,6 @@
 header:
   - title: Post
-    url: /posts/
+    url: /
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -55,7 +55,7 @@ rm:
   - title: Random Math
     children:
       - title: /#1 Set
-        url: /posts/rm/rm1
+        url: /rm/rm1
 
 
 sidebar:
