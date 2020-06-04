@@ -55,7 +55,7 @@ rm:
   - title: Random Math
     children:
       - title: /#1 Set
-        url: /rm/rm1
+        url: rm/rm1
 
 
 sidebar:
