@@ -219,7 +219,15 @@ defaults:
       path: "_docs/rm"
     values:
       layout: article
-      nav_key: rm
+      sidebar: true
+        nav: rm
+      sharing: true
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_subscribe: true
+      pageview: true
 
 
 ## => Plugins
