@@ -216,8 +216,7 @@ defaults:
       show_subscribe: true
       pageview: true
   - scope:
-      path: "rm/"
-      type: posts
+      path: "_posts/rm/"
     values:
       layout: article
       sidebar:

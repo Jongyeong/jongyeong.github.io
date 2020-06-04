@@ -1,4 +1,7 @@
 header:
+  - title: Post
+    url: /posts/
+
   - titles:
       # @start locale config
       en      : &EN       Archive
