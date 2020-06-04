@@ -1,7 +1,5 @@
 ---
-title: Random math \#1
-sidebar:
-    nav: rm
+title: Random math #1
 tag: RM Set
 ---
 # H1
