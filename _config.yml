@@ -119,7 +119,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -212,6 +212,8 @@ defaults:
       license: true
       aside:
         toc: true
+      sidebar:
+        nav: layouts
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
