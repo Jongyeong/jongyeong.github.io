@@ -219,7 +219,7 @@ defaults:
       type: posts
     values:
       layout: article
-      category: rm
+      category: "rm"
       sidebar:
         nav: rm
       sharing: true
