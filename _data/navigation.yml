@@ -1,6 +1,8 @@
 header:
   - title: Post
     url: /
+  - title: Publication
+    url: /pbind.html
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -51,12 +53,10 @@ header:
       # @end locale config
     url: /about.html
 
-rm:
+rmnav:
   - title: Random Math
     children:
-      - title: 01. Set
-        url: rm/rm1
-
-
-sidebar:
-  nav: rm
+      - title: 01. Set and function
+        url: /rm/rm1
+      - title: 02. Basic real anaylsis
+        url: /rm/rm2

@@ -119,7 +119,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -182,7 +182,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : /:title
+permalink   : /:categories/:title
 
 exclude:
   - CHANGELOG.md
@@ -201,10 +201,20 @@ exclude:
   - /screenshots
   - /vendor
 
+collections_dir: collection
+collections:
+  rm1:
+    output: true
+    primalink: /:collection/:title
+  publication:
+    output: true
+    primalink: /:collection/:title
+
+
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: "publication"
     values:
       layout: article
       sharing: true
@@ -215,12 +225,9 @@ defaults:
       show_subscribe: true
       pageview: true
   - scope:
-      path: "rm"
-      type: posts
+      path: "_posts/rm"
     values:
       layout: article
-      sidebar:
-        nav: rm
       sharing: true
       license: true
       aside:
@@ -228,6 +235,23 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
+      permalink: /rm/:title
+      sidebar:
+        nav: rmnav
+  - scope:
+      path: "_posts/pb"
+    values:
+      layout: article
+      sharing: true
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_subscribe: true
+      pageview: true
+      permalink: /pb/:title
+      #sidebar:
+      #  nav: rmnav
 
 
 ## => Plugins
