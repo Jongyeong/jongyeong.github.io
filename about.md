@@ -32,7 +32,7 @@ key: page-about
   My research interests lie broadly in Machine Learning which considers more realistic situations, especially where information is imperfect such as domain adaptation, crowdsourcing, the cases where labels are corrupted and when the noise is heteroscedastic.
  I am also interested in safe exploration in RL/Bandit model and decision making and in the applications of machine learning methods to the real world which could make our life better and exciting.
   
-  [Online CV](https://jongyeong.github.io/online-cv/)
+  [Online CV](https://jongyeong.github.io/online-cv/), [Google Scholar](https://scholar.google.com/citations?user=ZNLjOlEAAAAJ&hl=en)
   
   Langauge : Korean (native), English (IELTS academic 7.5) and Japanese (N1).
   
