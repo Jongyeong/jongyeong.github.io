@@ -66,3 +66,7 @@ rmnav:
         url: /rm/rm4
       - title: 05. Convergence
         url: /rm/rm5
+      - title: 06. Group and Vector space (1)
+        url: /rm/rm6
+      - title: 07. Group and Vector space (2)
+        url: /rm/rm7
