@@ -74,3 +74,5 @@ rmnav:
         url: /rm/rm8
       - title: 09. Group (4)
         url: /rm/rm9
+      - title: 10. Lagrange's Theorem
+        url: /rm/rm10
