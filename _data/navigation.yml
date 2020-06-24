@@ -70,9 +70,11 @@ rmnav:
         url: /rm/rm6
       - title: 07. Group and Vector space (2)
         url: /rm/rm7
-      - title: 08. Vector space (3)
+      - title: 08. Vector space
         url: /rm/rm8
-      - title: 09. Group (4)
+      - title: 09. Group (1)
         url: /rm/rm9
       - title: 10. Lagrange's Theorem
         url: /rm/rm10
+      - title: 11. Group (2)
+        url: /rm/rm11
