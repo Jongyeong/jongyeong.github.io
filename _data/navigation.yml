@@ -82,3 +82,5 @@ rmnav:
         url: /rm/rm12
       - title: 13. Group (3)
         url: /rm/rm13
+      - title: 14. Inverse, similar matrix
+        url: /rm/rm14
