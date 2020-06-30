@@ -86,3 +86,5 @@ rmnav:
         url: /rm/rm14
       - title: 15. Eigenvector/space
         url: /rm/rm15
+      - title: 16. Inner product
+        url: /rm/rm16
