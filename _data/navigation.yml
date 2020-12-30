@@ -92,3 +92,5 @@ rmnav:
         url: /rm/rm17
       - title: 18. Upper traingular matrix
         url: /rm/rm18
+      - title: 19. Spectral Theorem
+        url: /rm/rm19
