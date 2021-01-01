@@ -30,8 +30,6 @@ description: > # this means to ignore newlines until "Language & timezone"
 lang: en # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
-future: true
-
 ## => Author and Social
 ##############################
 author:
@@ -204,7 +202,7 @@ exclude:
 
 collections_dir: collection
 collections:
-  rm1:
+  rm:
     output: true
     primalink: /:collection/:title
   publication:
