@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-  I am a Ph.D. student under the supervision of Prof. Masashi Sugiyama in [Sugiyama-Honda-Yokoya laboratory](http://www.ms.k.u-tokyo.ac.jp/index.html), Department of computer science, The University of Tokyo.
+  I am a Ph.D. student under the supervision of Prof. Masashi Sugiyama in [Sugiyama-Yokoya laboratory](http://www.ms.k.u-tokyo.ac.jp/index.html), Department of computer science, The University of Tokyo.
   Also, I am a part-time researcher on the Imperfect Information Learning Team in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/).
   
   My research interests lie broadly in Machine Learning which can describe the real-world, especially in the sequential decision making such as reinforcement learning and bandit problem.
