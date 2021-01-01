@@ -94,3 +94,5 @@ rmnav:
         url: /rm/rm18
       - title: 19. Spectral Theorem
         url: /rm/rm19
+      - title: 20. Singular Value Decomposition (SVD)
+        url: /rm/rm20
