@@ -62,7 +62,7 @@ rmnav:
         url: /rm/rm2
       - title: 03. Density and Limit
         url: /rm/rm3
-      - title: 04. Topology
+      - title: 04. Topology (1)
         url: /rm/rm4
       - title: 05. Convergence
         url: /rm/rm5
@@ -96,3 +96,5 @@ rmnav:
         url: /rm/rm19
       - title: 20. Singular Value Decomposition (SVD)
         url: /rm/rm20
+      - title: 21. Topology (2)
+        url: /rm/rm21
