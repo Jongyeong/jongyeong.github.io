@@ -100,5 +100,7 @@ rmnav:
         url: /rm/rm21
       - title: 22. Some special Topologies
         url: /rm/rm22
-      - title: 23. Closed, clousre and interior
+      - title: 23. Clousre and interior
         url: /rm/rm23
+      - title: 24. Hausdorff and contiunity
+        url: /rm/rm24
