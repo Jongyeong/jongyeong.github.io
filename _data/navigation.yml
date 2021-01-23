@@ -104,3 +104,7 @@ rmnav:
         url: /rm/rm23
       - title: 24. Hausdorff and contiunity
         url: /rm/rm24
+      - title: 25. Initial/Final Topology
+        url: /rm/rm25
+      - title: 26. Compact space
+        url: /rm/rm26
