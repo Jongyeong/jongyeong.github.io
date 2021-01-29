@@ -110,3 +110,5 @@ rmnav:
         url: /rm/rm26
       - title: 27. Measurable set
         url: /rm/rm27
+      - title: 28. Borel set
+        url: /rm/rm28
