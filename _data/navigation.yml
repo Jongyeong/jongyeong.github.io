@@ -114,3 +114,5 @@ rmnav:
         url: /rm/rm28
       - title: 29. Measure
         url: /rm/rm29
+      - title: 30. Converse of Radon-Nikodym theorem
+        url: /rm/rm30
