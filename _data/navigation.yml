@@ -106,7 +106,7 @@ rmnav:
         url: /rm/rm24
       - title: 25. Initial/Final Topology
         url: /rm/rm25
-      - title: 26. Compact space
+      - title: 26. Compact space (1)
         url: /rm/rm26
       - title: 27. Measurable set
         url: /rm/rm27
@@ -120,3 +120,5 @@ rmnav:
         url: /rm/rm31
       - title: 32. Convexity and Lp space
         url: /rm/rm32
+      - title: 33. Compact space (2)
+        url: /rm/rm33
