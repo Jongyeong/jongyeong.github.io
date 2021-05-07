@@ -124,5 +124,7 @@ rmnav:
         url: /rm/rm33
       - title: 34. Compact space (3)
         url: /rm/rm34
-      - title: 35. Compact space (4)
+      - title: 35. Locally compact
         url: /rm/rm35
+      - title: 36. Connected space
+        url: /rm/rm36
