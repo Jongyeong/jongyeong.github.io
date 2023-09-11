@@ -208,9 +208,6 @@ collections:
   publication:
     output: true
     primalink: /:collection/:title
-  publication:
-    output: true
-    permalink: /:collection/:title
 defaults:
   - scope:
       path: ""
@@ -224,6 +221,7 @@ defaults:
       show_edit_on_github: false
       show_subscribe: false
       pageview: true
+      permalink: /publication/:title
   - scope:
       path: "_posts/rm"
     values:
