@@ -221,7 +221,6 @@ defaults:
       show_edit_on_github: false
       show_subscribe: false
       pageview: true
-      permalink: /publication/:title
   - scope:
       path: "_posts/rm"
     values:
