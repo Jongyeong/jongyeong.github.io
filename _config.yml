@@ -210,10 +210,7 @@ collections:
     primalink: /:collection/:title
   publication:
     output: true
-    permalink: /:collection/:title/
-    sort_by: date # 미리보기를 날짜 기준으로 정렬
-    sort_order: reverse # 역순으로 정렬 (최신 것이 위로 오게 됨)
-
+    permalink: /:collection/:title
 defaults:
   - scope:
       path: ""
