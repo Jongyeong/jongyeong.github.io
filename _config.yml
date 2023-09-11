@@ -208,9 +208,9 @@ collections:
   publication:
     output: true
     primalink: /:collection/:title
-publication:
+  publication:
     output: true
-    permalink: /publication/:path/
+    permalink: /:collection/:title/
     sort_by: date # 미리보기를 날짜 기준으로 정렬
     sort_order: reverse # 역순으로 정렬 (최신 것이 위로 오게 됨)
 
@@ -225,7 +225,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: false
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
   - scope:
       path: "_posts/rm"
@@ -236,7 +236,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: false
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
       permalink: /rm/:title
       sidebar:
@@ -250,7 +250,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: false
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
       permalink: /pb/:title
       #sidebar:
