@@ -208,7 +208,11 @@ collections:
   publication:
     output: true
     primalink: /:collection/:title
-
+publication:
+    output: true
+    permalink: /publication/:path/
+    sort_by: date # 미리보기를 날짜 기준으로 정렬
+    sort_order: reverse # 역순으로 정렬 (최신 것이 위로 오게 됨)
 
 defaults:
   - scope:
@@ -223,7 +227,6 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
-      sort:updated
   - scope:
       path: "_posts/rm"
     values:
