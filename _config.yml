@@ -210,7 +210,7 @@ collections:
     primalink: /:collection/:title
 defaults:
   - scope:
-      path: ""
+      path: "_pulblication"
       type: "publication"
     values:
       layout: article
