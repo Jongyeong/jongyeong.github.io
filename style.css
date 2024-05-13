@@ -1,0 +1,107 @@
+body {
+  /* font-family: "Times New Roman", Times, serif; */
+  /* font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; */
+  font-family: "TeXGyrePagella", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  /* margin: 20px 170px 70px 170px; */
+  margin: 3% 13% 10% 13%;
+  /* background-color: aliceblue; */
+  /* background-color: ghostwhite; */
+}
+
+h1, h2, h3 {
+  /* font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; */
+}
+
+h3{
+  /* font-family: "Times New Roman", Times, serif; */
+  font-style: italic;
+}
+
+/* p.pic img {
+	width: 200px;
+} */
+
+h1 {
+    font-weight: 700;
+}
+
+h2.header {
+    position: relative;
+    margin: 5px 0 5px 10px;
+    padding: 2px 0 0 10px;
+    /* font-weight: normal; */
+    font-weight: 700;
+    /* border-bottom: dashed 1px #0049B7; */
+    color: #0049B7
+}
+
+h3.header {
+    position: relative;
+    margin: 5px 0 5px 10px;
+    padding: 2px 0 0 10px;
+    font-weight: normal;
+    /* font-weight: 600; */
+    /* text-decoration: underline; */
+    /* border-bottom: dashed 1px #000000; */
+    /* background-color: gold ; */
+}
+
+
+a {
+  color: #07889b
+  /* color: #0049B7 */
+}
+a:hover {
+  color: #e37222
+}
+/* a:visited{
+  color: #a28089
+} */
+
+li {
+    margin-bottom: 8px;
+}
+
+span.b-ul {
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+/* award */
+span.award {
+  color: #C70025;
+  font-weight: 700;
+}
+
+div.footnote {
+    text-align: center;
+}
+
+ul.new-hoge{
+  list-style: none;
+}
+
+/* ******************************* */
+
+.profileContainer{
+  display: flex;
+}
+
+.profile{
+  float: left;
+}
+
+div.profile{
+  padding: 0px 10px 0px 10px;
+}
+
+img#profile-img{
+  border-radius: 7%;
+  margin: 15px 0 0 0;
+}
+
+
+
+/* colors */
+/* ruri */
+/* color: #004898 */
