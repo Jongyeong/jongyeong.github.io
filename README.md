@@ -1,4 +1,4 @@
 # jongyeong.github.io
 Renewed personal homepage
 
-The format mainly borrowed from Taira Tsuchiya.
+The format mainly borrowed from Taira Tsuchiya (https://tsuchhiii.github.io/)
